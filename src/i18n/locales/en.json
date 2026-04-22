@@ -1,0 +1,107 @@
+{
+  "app": {
+    "name": "Sport Facility Booking System",
+    "tagline": "Book your sport facility easily"
+  },
+  "nav": {
+    "home": "Home",
+    "facilities": "Facilities",
+    "myBookings": "My Bookings",
+    "profile": "Profile",
+    "admin": "Admin Dashboard",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phone": "Phone",
+    "loginTitle": "Welcome Back",
+    "registerTitle": "Create Account",
+    "loginSubtitle": "Sign in to your SFBS account",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "loginWithGoogle": "Continue with Google",
+    "forgotPassword": "Forgot password?"
+  },
+  "facilities": {
+    "title": "Sport Facilities",
+    "available": "Available",
+    "booked": "Booked",
+    "maintenance": "Under Maintenance",
+    "closed": "Closed",
+    "capacity": "Capacity",
+    "hourlyRate": "Hourly Rate",
+    "type": "Type",
+    "environment": "Environment",
+    "indoor": "Indoor",
+    "outdoor": "Outdoor",
+    "bookNow": "Book Now",
+    "viewDetails": "View Details",
+    "noFacilities": "No facilities found",
+    "filters": "Filters",
+    "availableOnly": "Available Only"
+  },
+  "bookings": {
+    "title": "My Bookings",
+    "create": "Create Booking",
+    "cancel": "Cancel Booking",
+    "confirm": "Confirm Booking",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "notes": "Notes",
+    "totalAmount": "Total Amount",
+    "status": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "cancelled": "Cancelled",
+      "completed": "Completed",
+      "no_show": "No Show"
+    },
+    "noBookings": "You have no bookings yet",
+    "bookingCreated": "Booking created successfully!",
+    "bookingCancelled": "Booking cancelled"
+  },
+  "payment": {
+    "title": "Payment",
+    "method": "Payment Method",
+    "stripe": "Pay with Card (Stripe)",
+    "offline": "Pay at Reception (Offline)",
+    "amount": "Amount",
+    "pay": "Pay Now",
+    "success": "Payment successful!",
+    "failed": "Payment failed. Please try again.",
+    "pending": "Payment pending admin approval"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "search": "Search",
+    "filter": "Filter",
+    "reset": "Reset",
+    "yes": "Yes",
+    "no": "No",
+    "currency": "PLN"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "language": "Language",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode"
+  }
+}
